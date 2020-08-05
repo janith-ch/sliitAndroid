@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.i( "Lifecycle",  "onCreate called");
     }
+    
     @Override
     protected void onStart() {
         super.onStart();
